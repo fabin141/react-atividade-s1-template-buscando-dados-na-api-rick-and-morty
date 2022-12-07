@@ -1,0 +1,11 @@
+.containerOne {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.containerTwo {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
